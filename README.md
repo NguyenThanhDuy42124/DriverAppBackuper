@@ -85,7 +85,7 @@ python main.py
 
 ```powershell
 venv\Scripts\activate
-pyinstaller --noconfirm --clean --windowed --onefile --name DriverBackupWin --icon easy-installation.ico --add-data "config;config" --add-data "lang;lang" main.py
+pyinstaller --noconfirm --clean --windowed --onefile --name DriverBackupWin --icon easy-installation.ico --add-data "easy-installation.ico;." --add-data "config;config" --add-data "lang;lang" main.py
 ```
 
 Sau khi build xong, file release nam tai `dist\DriverBackupWin.exe`.
