@@ -85,10 +85,10 @@ python main.py
 
 ```powershell
 venv\Scripts\activate
-pyinstaller --noconfirm --windowed --name DriverBackupWin main.py
+pyinstaller --noconfirm --clean --windowed --onefile --name DriverBackupWin --icon easy-installation.ico --add-data "config;config" --add-data "lang;lang" main.py
 ```
 
-Neu can include thu muc `lang` va `config` khi build, dung them `--add-data` tuy he dieu hanh.
+Sau khi build xong, file release nam tai `dist\DriverBackupWin.exe`.
 
 ## Ghi chu van hanh
 
