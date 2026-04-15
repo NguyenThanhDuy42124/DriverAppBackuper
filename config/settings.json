@@ -1,0 +1,10 @@
+{
+  "default_backup_mode": "full",
+  "default_language": "vi",
+  "theme_mode": "black",
+  "debug_mode": false,
+  "last_backup_folder": "",
+  "default_app_source_filter": "all",
+  "backup_root": "./backups",
+  "log_file": "driver_backup.log"
+}

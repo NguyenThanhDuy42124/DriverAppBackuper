@@ -1,0 +1,102 @@
+{
+  "app_title": {"vi": "Sao lưu và Khôi phục Hệ thống", "en": "System Backup and Restore"},
+  "drivers_tab": {"vi": "Driver", "en": "Drivers"},
+  "applications_tab": {"vi": "Ứng dụng", "en": "Applications"},
+  "language": {"vi": "Ngôn ngữ", "en": "Language"},
+  "mode": {"vi": "Chế độ sao lưu", "en": "Backup mode"},
+  "theme": {"vi": "Giao diện", "en": "Theme"},
+  "theme_black": {"vi": "Đen", "en": "Black"},
+  "theme_white": {"vi": "Trắng", "en": "White"},
+  "mode_full": {"vi": "Đầy đủ (full)", "en": "Full"},
+  "mode_strict": {"vi": "Rút gọn (strict)", "en": "Strict"},
+  "search": {"vi": "Tìm kiếm", "en": "Search"},
+  "filter": {"vi": "Lọc", "en": "Filter"},
+  "filter_all": {"vi": "Tất cả", "en": "All"},
+  "filter_running": {"vi": "Đang chạy", "en": "Running"},
+  "filter_stopped": {"vi": "Đã dừng", "en": "Stopped"},
+
+  "load_drivers": {"vi": "Tải danh sách Driver", "en": "Load Drivers"},
+  "backup_selected": {"vi": "Sao lưu Driver đã chọn", "en": "Backup Selected"},
+  "restore": {"vi": "Khôi phục Driver", "en": "Restore Drivers"},
+  "quick_backup": {"vi": "Sao lưu nhanh", "en": "Quick Backup"},
+  "export_csv": {"vi": "Xuất CSV", "en": "Export CSV"},
+  "open_backup_folder": {"vi": "Mở thư mục sao lưu", "en": "Open Backup Folder"},
+  "full_backup_system": {"vi": "Sao lưu toàn hệ thống", "en": "Full Backup System"},
+
+  "select": {"vi": "Chọn", "en": "Select"},
+  "device_name": {"vi": "Tên thiết bị", "en": "Device Name"},
+  "inf_name": {"vi": "Tên INF", "en": "INF Name"},
+  "status": {"vi": "Trạng thái", "en": "Status"},
+
+  "load_apps": {"vi": "Tải ứng dụng", "en": "Load Apps"},
+  "backup_selected_apps": {"vi": "Sao lưu App đã chọn", "en": "Backup Selected Apps"},
+  "import_backup_file": {"vi": "Nhập file sao lưu", "en": "Import Backup File"},
+  "restore_apps": {"vi": "Khôi phục App", "en": "Restore Apps"},
+  "quick_restore_all_apps": {"vi": "Khôi phục nhanh tất cả App", "en": "Quick Restore All Apps"},
+  "export_restore_script": {"vi": "Xuất script khôi phục", "en": "Export Restore Script"},
+
+  "app_name": {"vi": "Tên app", "en": "Name"},
+  "app_id": {"vi": "App ID", "en": "Id"},
+  "app_version": {"vi": "Phiên bản", "en": "Version"},
+  "app_source": {"vi": "Nguồn", "en": "Source"},
+  "app_status": {"vi": "Tình trạng", "en": "Status"},
+
+  "select_all": {"vi": "Chọn tất cả", "en": "Select All"},
+  "unselect_all": {"vi": "Bỏ chọn tất cả", "en": "Unselect All"},
+  "selected_count": {"vi": "Số lượng đã chọn: {count}", "en": "Selected count: {count}"},
+
+  "export_config": {"vi": "Xuất cấu hình", "en": "Export Config"},
+  "import_config": {"vi": "Nhập cấu hình", "en": "Import Config"},
+  "choose_backup_folder": {"vi": "Chọn thư mục sao lưu", "en": "Choose backup folder"},
+  "choose_restore_folder": {"vi": "Chọn thư mục khôi phục", "en": "Choose restore folder"},
+  "choose_export_csv": {"vi": "Chọn nơi lưu CSV", "en": "Choose CSV output"},
+  "choose_export_config": {"vi": "Chọn nơi lưu cấu hình", "en": "Choose config output"},
+  "choose_import_config": {"vi": "Chọn file cấu hình", "en": "Choose config file"},
+  "choose_export_apps": {"vi": "Chọn nơi lưu app backup", "en": "Choose app backup file"},
+
+  "error": {"vi": "Lỗi", "en": "Error"},
+  "success": {"vi": "Thành công", "en": "Success"},
+  "info": {"vi": "Thông tin", "en": "Info"},
+
+  "load_done": {"vi": "Đã tải {count} driver", "en": "Loaded {count} drivers"},
+  "apps_load_done": {"vi": "Đã tải {count} app", "en": "Loaded {count} apps"},
+  "apps_backup_done": {"vi": "Sao lưu app hoàn tất", "en": "Apps backup completed"},
+  "apps_import_done": {"vi": "Đã nạp app backup", "en": "App backup loaded"},
+  "backup_done": {"vi": "Sao lưu hoàn tất", "en": "Backup completed"},
+  "restore_done": {"vi": "Khôi phục hoàn tất", "en": "Restore completed"},
+  "full_backup_done": {"vi": "Sao lưu toàn hệ thống hoàn tất", "en": "Full system backup completed"},
+  "quick_backup_done": {"vi": "Sao lưu nhanh đã xong", "en": "Quick backup completed"},
+
+  "no_driver_selected": {"vi": "Bạn chưa chọn driver nào", "en": "No driver selected"},
+  "no_app_selected": {"vi": "Bạn chưa chọn app nào", "en": "No app selected"},
+  "nothing_selected": {"vi": "Bạn chưa chọn dữ liệu để sao lưu", "en": "Nothing selected for backup"},
+  "no_backup_folder": {"vi": "Chưa có thư mục sao lưu", "en": "No backup folder available"},
+
+  "admin_required": {
+    "vi": "Ứng dụng cần quyền Administrator để sử dụng đầy đủ tính năng.",
+    "en": "Administrator rights are required for full functionality."
+  },
+
+  "config_exported": {"vi": "Đã xuất cấu hình", "en": "Config exported"},
+  "config_imported": {"vi": "Đã nhập cấu hình", "en": "Config imported"},
+  "csv_exported": {"vi": "Đã xuất CSV", "en": "CSV exported"},
+  "script_exported": {"vi": "Đã xuất script khôi phục", "en": "Restore script exported"},
+  "already_loading": {"vi": "Đang tải dữ liệu, vui lòng chờ hoàn tất...", "en": "Data is already loading, please wait..."},
+
+  "tip_load_drivers": {"vi": "Tải danh sách driver đang có trên hệ thống", "en": "Load current drivers from the system"},
+  "tip_backup_selected_drivers": {"vi": "Sao lưu các driver đã tích chọn", "en": "Back up selected drivers"},
+  "tip_restore_drivers": {"vi": "Khôi phục driver từ thư mục sao lưu", "en": "Restore drivers from backup folder"},
+  "tip_export_driver_csv": {"vi": "Xuất danh sách driver hiện tại ra CSV", "en": "Export current driver list to CSV"},
+  "tip_open_backup_folder": {"vi": "Mở nhanh thư mục sao lưu gần nhất", "en": "Open the latest backup folder"},
+  "tip_full_backup": {"vi": "Sao lưu đồng thời driver và danh sách app", "en": "Back up both drivers and app list"},
+
+  "tip_load_apps": {"vi": "Tải danh sách ứng dụng từ WinGet", "en": "Load application list from WinGet"},
+  "tip_backup_selected_apps": {"vi": "Sao lưu các app đã tích chọn", "en": "Back up selected applications"},
+  "tip_import_app_backup": {"vi": "Nạp danh sách app từ file sao lưu", "en": "Import app list from backup file"},
+  "tip_restore_apps": {"vi": "Cài lại các app đã tích chọn", "en": "Restore selected applications"},
+  "tip_restore_all_apps": {"vi": "Khôi phục nhanh tất cả app đang hiển thị", "en": "Quick restore all currently listed apps"},
+  "tip_export_restore_script": {"vi": "Xuất file .bat để cài app hàng loạt", "en": "Export .bat script for batch app restore"},
+
+  "tip_export_config": {"vi": "Xuất cấu hình hiện tại ra file", "en": "Export current app settings"},
+  "tip_import_config": {"vi": "Nhập cấu hình từ file", "en": "Import app settings from file"}
+}
